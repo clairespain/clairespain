@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and I have two kittens named Twix and Mars.
   
 <br/>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain&row=1&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true" alt="clairespain" /></a> </p>
 
 <h3 align="left">📫 Connect with me:</h3>
 <br/>
@@ -37,8 +37,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clairespain&show_icons=true&locale=en" alt="clairespain" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clairespain&" alt="clairespain" /></p>
-
-<br/>
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain" alt="clairespain" /></a> </p>
 
