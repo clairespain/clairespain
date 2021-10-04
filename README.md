@@ -5,7 +5,7 @@
 <p align="center">Welcome to my github profile, please, sit back and enjoy a hot drink ☕</p>
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning C#
 - 👨🏻‍💻 My goal is to become a full stack web developer
 - 📫 How to reach me: clairespain@outlook.com
 - 😄 Pronouns: She/Her/Hers
@@ -33,16 +33,13 @@
 
 <br/>
 
-<h2 align="center">My Stats</h2>
-
----
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clairespain&show_icons=true&locale=en&layout=compact" alt="clairespain" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=clairespain&show_icons=true&locale=en" alt="clairespain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clairespain&show_icons=true&locale=en" alt="clairespain" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=clairespain&" alt="clairespain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clairespain&" alt="clairespain" /></p>
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain" alt="clairespain" /></a> </p>
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain" alt="clairespain" /></a> </p>
 
