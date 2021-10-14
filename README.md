@@ -14,14 +14,15 @@
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain&row=1&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true" alt="clairespain" /></a> </p>
 
-<!-- <h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <br/>
-<p align="left"> -->
+<p align="left">
 <!-- <a href="clairespain.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="claire-spain" height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/claire-spain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire-spain" height="30" width="40" /></a>
-<a href="https://instagram.com/claireanimates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="claireanimates" height="30" width="40" /></a>
+s
 <a href="https://dribbble.com/clairespain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="clairespain" height="30" width="40" /></a>
-<a href="https://www.behance.net/clarissasp7bb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="clairespain" height="30" width="40" /></a> -->
+-->
+<a href="https://www.behance.net/clairespain/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="clairespain" height="30" width="40" /></a>
 <!-- </p> -->
 <br/>
 <br/>
