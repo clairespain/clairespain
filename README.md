@@ -5,7 +5,7 @@
 <p align="center">Welcome to my github profile, please, sit back and enjoy a hot drink ☕</p>
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning python
 - 👨🏻‍💻 My goal is to become a full stack web developer
 - 📫 How to reach me: clairespain@outlook.com
 - 😄 Pronouns: She/Her/Hers
