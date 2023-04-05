@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Claire!</h1>
 
-<h3 align="center"> I'm a creative UX Designer and Web Developer.</h3>
+<h3 align="center"> I'm a creative Web Developer</h3>
 
 <p align="center">Welcome to my github profile, please, sit back and enjoy a hot drink ☕</p>
 
