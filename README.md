@@ -12,7 +12,10 @@
   
 <br/>
 
-<a href="https://www.fuelcast.net" align="center"><img src="https://assets.codepen.io/5120460/wildfire.png"> Fuelcast.net <a>
+<a href="https://www.fuelcast.net" align="center" style="display:flex">
+  <p>Fuelcast.net</p>
+  <img src="https://assets.codepen.io/5120460/wildfire.png" height="50px">
+  <a>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain&row=1&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true" alt="clairespain" /></a> </p>
