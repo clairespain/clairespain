@@ -12,8 +12,7 @@
   
 | Checkout Project Fuelcast!             | Checkout Project GoPlay!              |
 | ------------------------------------- | ------------------------------------- |
-| [![Fuelcast](https://assets.codepen.io/5120460/wildfire.png)](https://www.fuelcast.net) | [![GoPlay](https://assets.codepen.io/5120460/goplay.webp)](https://play.google.com/store/apps/details?id=com.montana_rep_app&hl=en_US&gl=US) |
-| <img src="https://assets.codepen.io/5120460/wildfire.png" width="50px">                    | <img src="https://assets.codepen.io/5120460/goplay.webp" width="50px" style="border-radius: 20%;"> |
+|<a href="https://www.fuelcast.net"> <img src="https://assets.codepen.io/5120460/wildfire.png" width="50px">                    | <a href="https://play.google.com/store/apps/details?id=com.montana_rep_app&hl=en_US&gl=US"><img src="https://assets.codepen.io/5120460/goplay.webp" width="50px" style="border-radius: 20%;"></a> |
 
 
 
