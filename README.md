@@ -10,16 +10,10 @@
 - 📫 How to reach me: clairespain@outlook.com
 - 😄 Pronouns: She/Her/Hers
   
-<p align="center">Checkout Project Fuelcast!
-<a href="https://www.fuelcast.net">
-  <img src="https://assets.codepen.io/5120460/wildfire.png" height="50px">
-</a>
-</p>
-<p align="center">Checkout Project GoPlay!
-<a href="https://play.google.com/store/apps/details?id=com.montana_rep_app&hl=en_US&gl=US">
-  <img src="https://assets.codepen.io/5120460/goplay.webp" height="60px" style="border-radius: 20%;">
-</a>
-</p>
+| Checkout Project Fuelcast!                | Checkout Project GoPlay!                 |
+| ---------------------------------------- | ---------------------------------------- |
+| [![Fuelcast](https://assets.codepen.io/5120460/wildfire.png)](https://www.fuelcast.net)   | [![GoPlay](https://assets.codepen.io/5120460/goplay.webp)](https://play.google.com/store/apps/details?id=com.montana_rep_app&hl=en_US&gl=US)  |
+
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain&row=1&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true" alt="clairespain" /></a> </p> -->
 
