@@ -17,11 +17,10 @@
   <img src="https://assets.codepen.io/5120460/wildfire.png" height="50px">
 </a>
  </p>
-
-<p> Checkout Project GoPlay!</p>
-<p> 
+ <p align="center"> Checkout Project GoPlay!</p>
+<p align="center"> 
   <a href="https://play.google.com/store/apps/details?id=com.montana_rep_app&hl=en_US&gl=US" align="center">
-    <img src="https://assets.codepen.io/5120460/goplay.webp" height="50px">
+    <img src="https://assets.codepen.io/5120460/goplay.webp" height="60px" style="border-radius: 10px">
   </a>
 </p>
 <br>
