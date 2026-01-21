@@ -1,46 +1,56 @@
-<h1 align="center"> Hi there, I'm Claire!</h1>
-
-<h3 align="center"> I'm a creative Front-end Developer and Designer.</h3>
-
-<p align="center">Welcome to my github profile, please, sit back and enjoy a hot drink ☕</p>
-
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning python
-- 👨🏻‍💻 My goal is to become a full stack web developer
-- 📫 How to reach me: clairespain@outlook.com
-- 😄 Pronouns: She/Her/Hers
+<div align="center">
   
-| Checkout Project Fuelcast!             | Checkout Project GoPlay!              |
-| ------------------------------------- | ------------------------------------- |
-|<a align="center" href="https://www.fuelcast.net"> <img  align="center"  src="https://assets.codepen.io/5120460/wildfire.png" width="50px">                    | <a align="center" href="https://play.google.com/store/apps/details?id=com.montana_rep_app&hl=en_US&gl=US"><img  align="center" src="https://assets.codepen.io/5120460/goplay.webp" width="50px" style="border-radius: 20%;"></a> |
+# Hi there, I'm Claire 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=500&lines=Web+Developer+%26+Designer;Creative+Technologist;)](https://git.io/typing-svg)
 
 
+[![Email](https://img.shields.io/badge/Email-clairespain%40outlook.com-9D4EDD?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:clairespain@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-gray?style=flat-square&logo=vercel&logoColor=white)](#)
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clairespain&row=1&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true" alt="clairespain" /></a> </p> -->
+</div>
 
-<h3 align="left">📫 Connect with me:</h3>
-<br/>
-<p align="left">
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
 
 
-<a href="https://dribbble.com/clairespain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="clairespain" height="30" width="40" /></a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<a href="[https://linkedin.com/in/claire-spain](https://www.linkedin.com/in/claire-spain/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire-spain" height="30" width="40" /></a>
-<a href="https://www.behance.net/clairespain/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="clairespain" height="30" width="40" /></a>
+</div>
 
-<!-- </p> -->
-<br/>
-<br/>
+---
 
+### GitHub Stats
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<br/>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairespain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD)
 
-<br/>
- -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairespain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD)
 
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clairespain&show_icons=true&locale=en" alt="clairespain" /></p> -->
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clairespain&" alt="clairespain" /></p>
+---
 
+<div align="center">
+  
+She/Her · Texas · 🤠
+
+![Visitor Count](https://komarev.com/ghpvc/?username=clairespain&color=9D4EDD&style=flat-square)
+
+</div>
