@@ -51,6 +51,4 @@
   
 She/Her · Texas · 🤠
 
-![Visitor Count](https://komarev.com/ghpvc/?username=clairespain&color=9D4EDD&style=flat-square)
-
 </div>
